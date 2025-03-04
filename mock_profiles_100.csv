@@ -1,0 +1,101 @@
+ID,Name,Interests,Skillsets,Age,Race,Years at office,Gender,PM_Type
+22,(22) Stephanie Allen,"['data analysis', 'mental health', 'clinical trials']","['IRB/Regulatory Management', 'R']",31,Hispanic,1,Female,Junior PM
+29,(29) Brandon Carter,"['epidemiology', 'implementation research', 'clinical trials']","['Quantitative Data Analysis', 'Grant Submissions', 'R']",39,Asian,1,Male,Junior PM
+80,(80) Lauren Martin,"['public health', 'epidemiology', 'machine learning']",['Stata'],29,Black,1,Female,Junior PM
+4,(4) Emily Davis,"['implementation research', 'interventions']",['Qualitative Analysis'],44,Asian,2,Female,Junior PM
+27,(27) Ryan Robinson,"['Retrospective Data Analysis', 'mental health', 'biostatistics']","['Recruitment', 'SAS']",47,Hispanic,2,Male,Junior PM
+37,(37) Mark Rogers,['public health'],"['Python', 'Chart Reviews']",29,Asian,2,Male,Junior PM
+38,(38) Julie Rivera,"['epidemiology', 'clinical trials']","['Qualitative Analysis', 'R']",38,Asian,2,Female,Junior PM
+47,(47) Benjamin Hughes,"['public health', 'biostatistics', 'implementation research']",['IRB/Regulatory Management'],45,Asian,2,Male,Junior PM
+97,(97) Gary Mitchell,['clinical trials'],['Quantitative Data Analysis'],35,White,2,Male,Junior PM
+30,(30) Emma Perez,"['implementation research', 'machine learning', 'biostatistics']","['Quantitative Data Analysis', 'IRB/Regulatory Management', 'Qualitative Analysis']",29,Hispanic,3,Female,Junior PM
+51,(51) Patrick Richardson,"['mental health', 'Retrospective Data Analysis', 'clinical trials']","['Stata', 'R', 'Chart Reviews']",30,Asian,3,Male,Junior PM
+16,(16) Hannah King,"['machine learning', 'interventions', 'public health']",['Quantitative Data Analysis'],38,Other,4,Female,Junior PM
+33,(33) Brian Collins,"['implementation research', 'interventions', 'biostatistics']","['Recruitment', 'Qualitative Analysis']",44,Asian,4,Male,Junior PM
+43,(43) Scott Parker,"['clinical trials', 'Retrospective Data Analysis']",['Qualitative Analysis'],26,Hispanic,4,Male,Junior PM
+71,(71) Tyler Kelly,['data analysis'],"['Recruitment', 'Python']",45,White,4,Male,Junior PM
+89,(89) Paul Richardson,"['machine learning', 'health IT']",['Chart Reviews'],47,Other,4,Male,Junior PM
+90,(90) Abigail Brooks,"['interventions', 'biostatistics', 'clinical trials']","['Chart Reviews', 'Recruitment']",32,Hispanic,4,Female,Junior PM
+99,(99) Joe Mamma,"['interventions', 'epidemiology']",['Stata'],38,White,4,Male,Junior PM
+31,(31) Kevin Evans,"['public health', 'mental health']",['Chart Reviews'],29,Hispanic,5,Male,Junior PM
+52,(52) Mia Torres,"['Retrospective Data Analysis', 'machine learning', 'clinical trials']","['Stata', 'Quantitative Data Analysis']",38,White,5,Female,Junior PM
+94,(94) Hannah Hall,"['biostatistics', 'data analysis', 'health IT']",['R'],34,Hispanic,5,Non-binary,Junior PM
+69,(69) Gregory Sanders,"['epidemiology', 'clinical trials']","['Python', 'SAS', 'Quantitative Data Analysis']",30,Other,7,Male,Junior PM
+81,(81) Larry Phillips,"['Retrospective Data Analysis', 'interventions', 'public health']","['IRB/Regulatory Management', 'Qualitative Analysis', 'Stata']",38,Hispanic,7,Male,Junior PM
+5,(5) Chris Brown,"['epidemiology', 'biostatistics', 'implementation research']",['Grant Submissions'],27,Other,8,Male,Junior PM
+34,(34) Victoria Stewart,"['mental health', 'clinical trials', 'health IT']","['Python', 'Qualitative Analysis', 'IRB/Regulatory Management']",44,Other,8,Female,Junior PM
+24,(24) Kimberly Ward,"['clinical trials', 'epidemiology']",['IRB/Regulatory Management'],42,Other,9,Female,Junior PM
+26,(26) Samantha Lewis,"['biostatistics', 'public health', 'mental health']",['Python'],26,Black,9,Female,Junior PM
+32,(32) Laura Edwards,"['machine learning', 'clinical trials', 'biostatistics']","['Grant Submissions', 'IRB/Regulatory Management', 'R']",25,White,9,Female,Junior PM
+36,(36) Sophia Morris,"['implementation research', 'epidemiology']","['SAS', 'Stata', 'Qualitative Analysis']",47,White,9,Female,Junior PM
+48,(48) Ashley Sanders,"['biostatistics', 'Retrospective Data Analysis', 'epidemiology']","['Qualitative Analysis', 'Stata']",46,Hispanic,9,Female,Junior PM
+58,(58) Jasmine Coleman,['interventions'],"['Recruitment', 'Stata']",28,Black,9,Female,Junior PM
+96,(96) Olivia Adams,"['implementation research', 'interventions']",['Qualitative Analysis'],35,White,9,Female,Junior PM
+3,(3) Alex Johnson,"['clinical trials', 'mental health', 'machine learning']",['Chart Reviews'],38,Other,10,Male,Junior PM
+17,(17) Andrew Wright,"['data analysis', 'Retrospective Data Analysis']","['IRB/Regulatory Management', 'Grant Submissions']",29,Black,10,Male,Junior PM
+35,(35) Jason Sanchez,['biostatistics'],"['Chart Reviews', 'Python']",35,Black,10,Male,Junior PM
+59,(59) Michael Howard,"['clinical trials', 'interventions', 'public health']",['R'],26,Asian,10,Male,Junior PM
+98,(98) Vanessa Murphy,"['biostatistics', 'implementation research', 'interventions']","['Qualitative Analysis', 'Stata']",26,Asian,10,Female,Junior PM
+55,(55) Jacob Fisher,['biostatistics'],['Chart Reviews'],36,Hispanic,10,Male,Junior PM
+66,(66) Claire Morgan,['mental health'],"['SAS', 'Recruitment', 'Quantitative Data Analysis']",26,White,10,Female,Junior PM
+91,(91) Travis Bell,['biostatistics'],"['Stata', 'Python']",29,Hispanic,10,Male,Junior PM
+54,(54) Katie Griffin,"['Retrospective Data Analysis', 'interventions', 'mental health']","['SAS', 'Python']",44,Hispanic,10,Female,Junior PM
+57,(57) Charles Kim,"['implementation research', 'interventions', 'epidemiology']","['Recruitment', 'Quantitative Data Analysis', 'Stata']",40,White,10,Male,Junior PM
+62,(62) Haley Foster,"['implementation research', 'epidemiology', 'data analysis']","['R', 'SAS', 'Qualitative Analysis']",42,White,10,Female,Junior PM
+79,(79) Jeremy Bennett,"['mental health', 'epidemiology']","['Qualitative Analysis', 'Chart Reviews']",44,Asian,10,Male,Junior PM
+87,(87) Edward Price,"['implementation research', 'machine learning', 'data analysis']","['Qualitative Analysis', 'Recruitment', 'Stata']",32,Hispanic,10,Male,Junior PM
+100,(100) Sue MeforwhatIgot,"['Retrospective Data Analysis', 'machine learning', 'biostatistics']","['Quantitative Data Analysis', 'IRB/Regulatory Management']",27,Other,10,Female,Junior PM
+1,(1) John Smith,"['interventions', 'Retrospective Data Analysis', 'implementation research']","['Chart Reviews', 'IRB/Regulatory Management']",44,Other,10,Male,Junior PM
+14,(14) Rachel Hall,"['mental health', 'clinical trials']",['Python'],26,White,10,Female,Junior PM
+39,(39) Justin Reed,"['machine learning', 'epidemiology', 'interventions']",['Grant Submissions'],29,Hispanic,10,Male,Junior PM
+8,(8) Laura Green,['machine learning'],"['Qualitative Analysis', 'Chart Reviews']",33,Hispanic,10,Female,Junior PM
+9,(9) David Harris,"['data analysis', 'public health']",['Quantitative Data Analysis'],34,Other,10,Male,Junior PM
+42,(42) Natalie Bell,['Retrospective Data Analysis'],"['Qualitative Analysis', 'Quantitative Data Analysis', 'IRB/Regulatory Management']",26,White,10,Female,Junior PM
+50,(50) Rachel Ramirez,"['Retrospective Data Analysis', 'clinical trials', 'mental health']",['SAS'],43,White,10,Female,Junior PM
+63,(63) Aaron Bailey,['clinical trials'],"['Grant Submissions', 'Python']",41,Asian,10,Male,Junior PM
+82,(82) Danielle Cox,['machine learning'],['Quantitative Data Analysis'],30,Asian,10,Female,Junior PM
+64,(64) Ella Jenkins,"['clinical trials', 'data analysis']","['Python', 'IRB/Regulatory Management', 'Quantitative Data Analysis']",29,Black,10,Female,Junior PM
+74,(74) Julia Watson,"['mental health', 'machine learning', 'interventions']",['R'],33,Asian,10,Female,Junior PM
+83,(83) Jonathan Rivera,"['implementation research', 'machine learning']",['Grant Submissions'],34,Black,11,Male,Senior PM
+92,(92) Katherine Clark,['mental health'],"['Grant Submissions', 'Qualitative Analysis', 'Stata']",32,White,12,Female,Senior PM
+18,(18) Olivia Scott,['biostatistics'],"['Quantitative Data Analysis', 'IRB/Regulatory Management', 'Stata']",33,White,16,Female,Senior PM
+93,(93) Dennis Lewis,['Retrospective Data Analysis'],"['Chart Reviews', 'IRB/Regulatory Management', 'Grant Submissions']",47,Other,16,Male,Senior PM
+12,(12) Megan Taylor,"['machine learning', 'Retrospective Data Analysis']",['IRB/Regulatory Management'],36,Other,17,Female,Senior PM
+84,(84) Melanie Murphy,['mental health'],"['Recruitment', 'R']",44,Other,17,Female,Senior PM
+86,(86) Crystal Cooper,"['Retrospective Data Analysis', 'mental health']","['Stata', 'SAS']",43,Other,17,Female,Senior PM
+75,(75) Peter Long,"['interventions', 'machine learning']","['Stata', 'Python']",27,Asian,18,Male,Senior PM
+2,(2) Jane Doe,"['epidemiology', 'Retrospective Data Analysis', 'public health']","['Qualitative Analysis', 'Grant Submissions']",45,Other,19,Female,Senior PM
+11,(11) Daniel Martin,"['interventions', 'biostatistics', 'implementation research']","['IRB/Regulatory Management', 'Stata']",26,Hispanic,19,Male,Senior PM
+49,(49) Adam Bryant,"['public health', 'implementation research']","['IRB/Regulatory Management', 'Quantitative Data Analysis']",41,Black,19,Male,Senior PM
+73,(73) Bryan Torres,['interventions'],['Stata'],40,Other,19,Male,Senior PM
+60,(60) Amber Lee,"['mental health', 'biostatistics', 'public health']",['Python'],44,Black,20,Female,Senior PM
+61,(61) Sean Ward,"['epidemiology', 'implementation research', 'data analysis']","['Recruitment', 'Stata', 'Qualitative Analysis']",25,Other,20,Non-binary,Senior PM
+76,(76) Heather Nelson,"['machine learning', 'public health', 'interventions']",['Grant Submissions'],29,White,20,Female,Senior PM
+13,(13) Joshua Lewis,['data analysis'],"['Quantitative Data Analysis', 'Grant Submissions', 'Qualitative Analysis']",43,Hispanic,21,Male,Senior PM
+25,(25) Nicholas Clark,"['biostatistics', 'machine learning', 'epidemiology']",['Chart Reviews'],38,Black,21,Male,Senior PM
+44,(44) Kelly Murphy,['implementation research'],"['Grant Submissions', 'Python', 'R']",33,Black,21,Female,Senior PM
+41,(41) Eric Cook,['public health'],"['IRB/Regulatory Management', 'Quantitative Data Analysis', 'SAS']",43,Black,22,Male,Senior PM
+72,(72) Alice White,"['epidemiology', 'biostatistics', 'Retrospective Data Analysis']",['Stata'],32,White,22,Female,Senior PM
+85,(85) Frank Howard,"['biostatistics', 'mental health']","['Grant Submissions', 'R', 'Quantitative Data Analysis']",47,Black,22,Male,Senior PM
+68,(68) Zoe Brooks,['data analysis'],['Python'],29,Black,23,Female,Senior PM
+10,(10) Lisa Wilson,['machine learning'],['Grant Submissions'],41,Asian,24,Female,Senior PM
+19,(19) Matthew Young,"['epidemiology', 'implementation research', 'clinical trials']",['Recruitment'],32,White,24,Male,Senior PM
+53,(53) Richard Price,"['Retrospective Data Analysis', 'machine learning']","['IRB/Regulatory Management', 'SAS', 'Stata']",34,Black,24,Male,Senior PM
+65,(65) Timothy Cooper,"['mental health', 'epidemiology', 'Retrospective Data Analysis']","['Qualitative Analysis', 'Stata']",44,Hispanic,24,Male,Senior PM
+23,(23) Joseph Adams,"['data analysis', 'machine learning']",['Chart Reviews'],32,Asian,25,Male,Senior PM
+45,(45) Paul Long,"['interventions', 'clinical trials']",['Grant Submissions'],47,Black,25,Male,Senior PM
+46,(46) Maria Mitchell,"['interventions', 'machine learning']","['Python', 'Chart Reviews']",26,Hispanic,25,Female,Senior PM
+7,(7) Michael Lee,"['epidemiology', 'machine learning', 'data analysis']",['Stata'],48,White,26,Male,Senior PM
+67,(67) Nathan Bryant,"['machine learning', 'implementation research']",['Recruitment'],40,Hispanic,26,Male,Senior PM
+88,(88) Michelle Reed,"['clinical trials', 'data analysis']",['Qualitative Analysis'],44,Black,26,Female,Senior PM
+95,(95) Brandon Parker,"['Retrospective Data Analysis', 'mental health']","['IRB/Regulatory Management', 'Chart Reviews', 'Python']",31,Other,26,Male,Senior PM
+15,(15) Anthony Walker,['machine learning'],['R'],40,Hispanic,27,Male,Senior PM
+28,(28) Jessica Scott,['clinical trials'],"['Python', 'Quantitative Data Analysis', 'IRB/Regulatory Management']",43,Other,27,Female,Senior PM
+56,(56) Allison Myers,"['mental health', 'implementation research']","['Quantitative Data Analysis', 'Chart Reviews', 'Stata']",30,Black,28,Female,Senior PM
+78,(78) Rebecca Murray,"['mental health', 'implementation research', 'public health']","['SAS', 'Chart Reviews', 'Python']",26,White,28,Female,Senior PM
+6,(6) Sarah White,"['machine learning', 'public health']","['R', 'Quantitative Data Analysis', 'IRB/Regulatory Management']",29,Other,29,Female,Senior PM
+21,(21) Steven Baker,"['machine learning', 'epidemiology', 'clinical trials']",['Python'],36,White,29,Male,Senior PM
+20,(20) Amanda Hill,"['data analysis', 'biostatistics', 'interventions']","['R', 'IRB/Regulatory Management']",31,Black,30,Female,Senior PM
+40,(40) Grace Cox,['data analysis'],['Stata'],25,Asian,30,Female,Senior PM
+70,(70) Audrey Perry,"['data analysis', 'interventions', 'biostatistics']","['Chart Reviews', 'SAS', 'Grant Submissions']",44,Asian,30,Female,Senior PM
+77,(77) Raymond Cox,"['implementation research', 'machine learning', 'Retrospective Data Analysis']","['Python', 'Stata', 'Recruitment']",36,Other,30,Male,Senior PM
